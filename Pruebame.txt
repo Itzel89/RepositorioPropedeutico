@@ -1,0 +1,11 @@
+total 16
+-rw-rw-r--. 1 prop2018 prop2018   0 jul 23 12:43 txt
+-r-xrw-r--. 1 prop2018 prop2018   0 jul 23 12:43 prueba
+-rw-rw-r--. 1 prop2018 prop2018  42 jul 23 13:08 prueba2.txt
+-rwxrwxrwx. 1 prop2018 prop2018  42 jul 23 13:23 prueba.txt
+-rw-rw-r--. 1 prop2018 prop2018  17 jul 23 13:24 prueba3.txt
+-rw-rw-r--. 1 prop2018 prop2018   0 jul 23 13:33 prueba_mil.txt
+-rw-rw-r--. 1 prop2018 prop2018   0 jul 23 13:33 prueba_mill.txt
+-rw-rw-r--. 1 prop2018 prop2018   0 jul 23 13:33 ls
+-rw-rw-r--. 1 prop2018 prop2018 530 jul 23 13:37 prro.txt
+-rw-rw-r--. 1 prop2018 prop2018   0 jul 23 13:40 Pruebame.txt
